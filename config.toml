@@ -1,0 +1,10 @@
+siteTitle="RESTED"
+baseColor = "#000"
+linkPrefix = "/gatsby-starter-documentation"
+docPages = [
+  "/docs/",
+  "/docs/getting-started/",
+  "/docs/url-templates/",
+  "/docs/protocol-handlers/",
+  "/docs/context-menus/"
+]
